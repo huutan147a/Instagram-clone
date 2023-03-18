@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-iid-interop:17.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f7c17067dc4823ccdd0a82b8a9e13032/transformed/firebase-iid-interop-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/f7c17067dc4823ccdd0a82b8a9e13032/transformed/firebase-iid-interop-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/cb7d1d8ee0b18a4f6e5e670882614af2/transformed/jetified-firebase-iid-interop-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/cb7d1d8ee0b18a4f6e5e670882614af2/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../SDK/caches/transforms-3/cb7d1d8ee0b18a4f6e5e670882614af2/transformed/jetified-firebase-iid-interop-17.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb7d1d8ee0b18a4f6e5e670882614af2/transformed/jetified-firebase-iid-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f454a9ba3bdb5b3c4533e97cc6bed7fc/transformed/jetified-firebase-iid-interop-17.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/729c8ce3186b9a19531d04d3c0f0c8e7/transformed/jetified-firebase-iid-interop-17.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729c8ce3186b9a19531d04d3c0f0c8e7/transformed/jetified-firebase-iid-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/729c8ce3186b9a19531d04d3c0f0c8e7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../SDK/caches/modules-2/files-2.1/com.google.firebase/firebase-iid-interop/17.1.0/7fad4ae6f5c2016d5c7babbbf020b6ac08a9cb08/firebase-iid-interop-17.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-iid-interop/17.1.0/7fad4ae6f5c2016d5c7babbbf020b6ac08a9cb08/firebase-iid-interop-17.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/513489b37b25e31c2959a75663f5d08a/transformed/play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/513489b37b25e31c2959a75663f5d08a/transformed/play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/1f7dd6d6bfb262ed305923a190430cfd/transformed/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/1f7dd6d6bfb262ed305923a190430cfd/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../SDK/caches/transforms-3/1f7dd6d6bfb262ed305923a190430cfd/transformed/jetified-play-services-safetynet-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f7dd6d6bfb262ed305923a190430cfd/transformed/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/015a6641b33091ce2bf50bd4ddf511fa/transformed/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b49875387d0422abf3a6965a4bb1f979/transformed/jetified-play-services-safetynet-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b49875387d0422abf3a6965a4bb1f979/transformed/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b49875387d0422abf3a6965a4bb1f979/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

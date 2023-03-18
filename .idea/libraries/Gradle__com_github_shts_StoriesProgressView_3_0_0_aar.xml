@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shts:StoriesProgressView:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/6f797e61042b1a1ee79664019ede272d/transformed/jetified-StoriesProgressView-3.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../SDK/caches/transforms-3/6f797e61042b1a1ee79664019ede272d/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../SDK/caches/transforms-3/6f797e61042b1a1ee79664019ede272d/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8ccbe96aa92fb045b912a30162d997e5/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ccbe96aa92fb045b912a30162d997e5/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8ccbe96aa92fb045b912a30162d997e5/transformed/jetified-StoriesProgressView-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98105763472f50a8c25325b28201cd58/transformed/jetified-StoriesProgressView-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98105763472f50a8c25325b28201cd58/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/98105763472f50a8c25325b28201cd58/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00484de85c6357567800cdcff081ef27/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/00484de85c6357567800cdcff081ef27/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/00484de85c6357567800cdcff081ef27/transformed/jetified-StoriesProgressView-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89147919989a03adac5880c9ce3cce87/transformed/jetified-StoriesProgressView-3.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/89147919989a03adac5880c9ce3cce87/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89147919989a03adac5880c9ce3cce87/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3d15cdc9d971484ad6d0ecda893d914/transformed/jetified-StoriesProgressView-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d3d15cdc9d971484ad6d0ecda893d914/transformed/jetified-StoriesProgressView-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3d15cdc9d971484ad6d0ecda893d914/transformed/jetified-StoriesProgressView-3.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../SDK/caches/modules-2/files-2.1/com.github.shts/StoriesProgressView/3.0.0/616d5e38d520bc4bc1a9c8f2f3f6c863d9e8b4f9/StoriesProgressView-3.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shts/StoriesProgressView/3.0.0/7c73b1d1374bb4bb6e5e7cf5c97379af4a607c73/StoriesProgressView-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
